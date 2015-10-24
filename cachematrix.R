@@ -1,6 +1,6 @@
 # R programming - Data Science Specialization
 # Assignment 2
-# Alicia Vázquez
+# Uxiavb
 
 
 ## makeCacheMatrix creates a matrix that can cache its inverse. 
